@@ -16,8 +16,8 @@ Here is a glimpse of how the website looks:
 
 ## What I use 
 
-* **HTML5:** 
-* **CSS3:**
+* **HTML5** 
+* **CSS3**
 
 ---
 
