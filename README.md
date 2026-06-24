@@ -10,7 +10,7 @@ This project was developed as part of the **#horizons** program.
 
 Here is a glimpse of how the website looks:
 
-![Project Screenshot](127.0.0.1_5500_index.html (1).jpg)
+![Project Screenshot](127.0.0.1_5500_index.html(1).jpg)
 
 ---
 
@@ -23,5 +23,5 @@ Here is a glimpse of how the website looks:
 
 ##  How to Use 
 
-1. **Clone or Download the Repository:**
+**Clone or Download the Repository:**
    git clone [<repository-url>](https://github.com/saja3waleed-wq/first-personal-website)
