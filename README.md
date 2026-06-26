@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! This project is to showcase my profile, hobbie, work, and a bit about my personality. 
 
+This project was built entirely by me without the use of any AI tools. All HTML, CSS, and project structure are 100% human-written.
+
 This project was developed as part of the **#horizons** program.
 
 ---
